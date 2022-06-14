@@ -912,6 +912,9 @@ nav{
     .s-box{
         margin-right: 80px;
     }
+    .skills_container{
+        margin-left: 300px;
+    }
 }
 
 @media(max-width:400px){
